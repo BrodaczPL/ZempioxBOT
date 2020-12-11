@@ -1,0 +1,7 @@
+**/help** - wyświetla listę komend.
+**/embed {#hex} |tytuł| <tekst>** - wysyła indywidualną wiadomość w Embed Builderze.
+**/info <tag>** - wyświetla informacje o użytkowniku.
+**/clear <ilość>** - czyści historię wiadomości.
+**/mute <tag>** - wycisza użytkownika.
+**/unmute <tag>** - usuwa wyciszenie użytkownika.
+
